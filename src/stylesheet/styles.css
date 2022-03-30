@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;800&display=swap');
+
+* {
+    font-family: 'Open Sans', sans-serif;
+}
+
+h1 {
+    font-weight: 800;
+    font-size: xx-large;
+}
+
+h2 {
+    font-weight: 600;
+    font-size: large;
+}
+
+h1:not(.is-spaced) + h2 {
+    margin-top: -1.25rem; }
+
+h2:not(.is-spaced) + h1 {
+    margin-top: -1.25rem; }
