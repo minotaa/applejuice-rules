@@ -11,7 +11,7 @@ export default function Home() {
             </header>
             <main>
                 <h1>&nbsp;🧃 applejuice rules</h1>
-                <h2>&nbsp;&nbsp;&nbsp;Join the discord server @ <Link href="https://discord.gg/X7ujJThANP">discord.gg/X7ujJThANP</Link>, appeal using this <Link href="https://discord.gg/X7ujJThANP">this form.</Link></h2>
+                <h2>&nbsp;&nbsp;&nbsp;Join the discord server @ <Link href="https://discord.gg/X7ujJThANP">discord.gg/X7ujJThANP</Link>, appeal using this <Link href="https://forms.gle/S3a7WLFCBBWudpLbA">this form.</Link></h2>
                 <br/>
                 <h1>&nbsp;🎮 In-game Bans</h1>
                 <h2>&nbsp;&nbsp;&nbsp;The following can get you banned:</h2>
